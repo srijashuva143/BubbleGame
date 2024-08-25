@@ -5,30 +5,47 @@ The Bubble Number Guessing Game is an engaging web-based game developed using HT
 **Features**
 
 **Dynamic Gameplay:**  
+
 A random number is displayed at the top of the page, and players must find and click the bubble containing this number.
+
 **Scoring System**:
+
 Players earn 10 points for each correct guess, encouraging continued play and improvement.
+
 **Randomized Bubbles:**
+
 The bubbles contain numbers from 1 to 10, and their positions are randomized with each game.
+
 **User Interface:**   
+
 Crafted with HTML and CSS for a visually appealing and intuitive user experience.
+
 **Interactive Feedback:**  
+
 Provides instant feedback based on player actions, with a scoring system that updates in real-time.
 
 **How to Play**
 
 Look at the target number displayed at the top of the page.
+
 Scan the bubbles to find the one containing the target number.
+
 Click on the bubble with the correct number to score 10 points.
+
 Continue finding the target number to accumulate more points and improve your score!
 
 **Technologies Used**
 
 **HTML:**   
+
 Provides the structure and content of the game.
+
 **CSS:**  
+
 Styles and layouts the bubbles and overall game appearance.
+
 **JavaScript:** 
+
 Handles game logic, bubble generation, and scoring.
 
 _**Contributing**_
