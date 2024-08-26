@@ -18,7 +18,7 @@ function MakeBubble(){
     var clutter='';
     let width = window.innerWidth;
     if(width<600){
-        for (let i = 0; i < 60; i++) {
+        for (let i = 0; i < 63; i++) {
             color='#' + Math.floor(Math.random()*16777215).toString(16);
             n=Math.floor(Math.random() *10);
           clutter+=`<div class="bbl" style="background-color:${color}">${n}</div>`; 
